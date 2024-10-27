@@ -1,0 +1,4 @@
+a.txt
+bs-config.aot.json
+package.json
+src
