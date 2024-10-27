@@ -1,4 +1,7 @@
-a.txt
+jjjj
+kkkk
+klll
+mmma.txt
 bs-config.aot.json
 package.json
 src
