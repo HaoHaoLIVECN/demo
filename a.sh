@@ -1,2 +1,5 @@
 #!/bin/sh
-echo "last version"
+echo "new Version"
+echo "hello"
+echo "nonnoo"
+echo "last modify"
