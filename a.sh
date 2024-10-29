@@ -1,2 +1,2 @@
 #!/bin/sh
-echo "abc"
+echo "last version"
